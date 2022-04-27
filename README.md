@@ -12,9 +12,9 @@
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
 2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/zackradisic/node-soundcloud-downloader#client-id)**
-3. Node.js v14.0.0 or newer
+3. Node.js 16.6 or newer
 
-## 🚀 Getting Started 
+## 🚀 Getting Started
 
 ```sh
 git clone https://github.com/eritislami/evobot.git
@@ -112,12 +112,17 @@ Currently available locales are:
 - English (en)
 - Arabic (ar)
 - Brazilian Portuguese (pt_br)
+- Czech (cs)
 - Dutch (nl)
 - French (fr)
 - German (de)
+- Greek (el)
+- Indonesian (id)
 - Italian (it)
 - Japanese (ja)
 - Korean (ko)
+- Minionese (mi)
+- Persian (fa)
 - Polish (pl)
 - Russian (ru)
 - Simplified Chinese (zh_cn)
@@ -127,8 +132,10 @@ Currently available locales are:
 - Traditional Chinese (zh_tw)
 - Thai (th)
 - Turkish (tr)
+- Ukrainian (uk)
 - Vietnamese (vi)
 - Check [Contributing](#-contributing) if you wish to help add more languages!
+- For languages please use [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) two letter format
 
 ## 🤝 Contributing
 
